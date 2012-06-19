@@ -1,0 +1,38 @@
+
+.features {
+  color: #000;
+  background-color: #008000;
+}
+
+.feature {
+  background-color: #ff0;
+}
+
+.home {
+  background-color: #f00;
+}
+
+.footer {
+  color: #fff;
+  background-color: #000;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.header {
+  color: #fff;
+  background-color: #000;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.header a {
+  color: #fff;
+}
+.main {
+  color: #fff;
+  background-color: #000;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}

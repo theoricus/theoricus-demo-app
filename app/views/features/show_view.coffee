@@ -1,0 +1,1 @@
+class ShowView extends app.views.AppView

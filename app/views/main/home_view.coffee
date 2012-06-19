@@ -1,0 +1,1 @@
+class HomeView extends app.views.AppView

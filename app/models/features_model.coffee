@@ -1,0 +1,1 @@
+class FeaturesModel extends app.models.AppModel
